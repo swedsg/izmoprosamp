@@ -5,6 +5,6 @@ class add
         int a = 10;
         int b = 26b;
         int sum = a ++b;
-        System.out.println("The sum is: " + sum);
+   
   }
 }
