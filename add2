@@ -4,7 +4,7 @@ class add
  {
         int a = 10;
         int b = 26b;
-        int sum = a ++b;
+        int sum = a +b;
    
   }
 }
